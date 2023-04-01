@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akars\\OneDrive\\Desktop\\myTodoListApp\\webapi\\webapi.csproj": {}
+    "C:\\Users\\akars\\Downloads\\myTodoListApp\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akars\\OneDrive\\Desktop\\myTodoListApp\\webapi\\webapi.csproj": {
+    "C:\\Users\\akars\\Downloads\\myTodoListApp\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akars\\OneDrive\\Desktop\\myTodoListApp\\webapi\\webapi.csproj",
+        "projectUniqueName": "C:\\Users\\akars\\Downloads\\myTodoListApp\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Users\\akars\\OneDrive\\Desktop\\myTodoListApp\\webapi\\webapi.csproj",
+        "projectPath": "C:\\Users\\akars\\Downloads\\myTodoListApp\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\akars\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akars\\OneDrive\\Desktop\\myTodoListApp\\webapi\\obj\\",
+        "outputPath": "C:\\Users\\akars\\Downloads\\myTodoListApp\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akars\\AppData\\Roaming\\NuGet\\NuGet.Config",
